@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8334574-1ED3-43CD-BFCE-50692CE1EAEC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>catch crises</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</key>
+		<string>https://github.com/JasonMcCoy/Catch-Crisis</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>catch crisis/catch crises/catch crises.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JasonMcCoy/Catch-Crisis</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F5852BB82A39A1DF903B72AA2685A9A7F2F7943</string>
+			<key>IDESourceControlWCCName</key>
+			<string>game</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<integer>0</integer>
+	<key>2</key>
+	<integer>0</integer>
+	<key>3</key>
+	<integer>0</integer>
+	<key>4</key>
+	<integer>0</integer>
+	<key>5</key>
+	<integer>0</integer>
+	<key>coins</key>
+	<integer>0</integer>
+	<key>heart1</key>
+	<integer>0</integer>
+	<key>heart1life</key>
+	<integer>0</integer>
+	<key>heart2</key>
+	<integer>0</integer>
+	<key>heart2life</key>
+	<integer>0</integer>
+	<key>banana</key>
+	<integer>0</integer>
+	<key>monkey</key>
+	<integer>0</integer>
+	<key>costumeSelect</key>
+	<integer>0</integer>
+	<key>falingobject</key>
+	<integer>0</integer>
+	<key>backactive</key>
+	<integer>0</integer>
+	<key>backq</key>
+	<integer>0</integer>
+	<key>backd</key>
+	<integer>0</integer>
+	<key>backi</key>
+	<integer>0</integer>
+	<key>first</key>
+	<integer>0</integer>
+	<key>shop</key>
+	<integer>0</integer>
+	<key>achievement</key>
+	<integer>0</integer>
+	<key>right</key>
+	<integer>0</integer>
+	<key>review</key>
+	<integer>0</integer>
+	<key>second</key>
+	<integer>0</integer>
+	<key>couter</key>
+	<integer>0</integer>
+</dict>
+</plist>
