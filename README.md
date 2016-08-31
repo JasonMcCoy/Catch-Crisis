@@ -2,7 +2,7 @@
 # By Jason McCoy
 
 A lot of work went into making this game and I would appreciate that if you like this game, please share it with everyone. I hope you'll have as much fun with this game as did I making it. Below is a video of what I have so far!:
-![alt tag](http://mccoygames.com/wp-content/uploads/2015/07/CGm0pMtUIAAxfYJ.mp4)
+![alt tag](http://mccoygames.com/wp-content/uploads/2016/08/ezgif.com-video-to-gif.gif)
 
 
 STORY/GAMEPLAY (Story in development...):
@@ -27,21 +27,27 @@ What's New in Version 1.1.1
 
 
 Here is the first screen upon the intial launch of the game:
+
 ![alt tag](http://a4.mzstatic.com/us/r30/Purple7/v4/2e/33/4d/2e334dbc-cd01-45d1-17ef-c5551d868627/screen696x696.jpeg)
 
 
 Catch and Dodge the bad coins!
+
 ![alt tag](http://a2.mzstatic.com/us/r30/Purple2/v4/5c/04/e4/5c04e42e-2ed4-6a11-ad78-fdd70d259e97/screen696x696.jpeg)
 
 
 You can see how many coins you caught and share your score via Facebook or Twitter:
+
 ![alt tag](http://a1.mzstatic.com/us/r30/Purple49/v4/98/59/94/985994b9-9646-f437-0678-d596c8185126/screen696x696.jpeg)
 
+
 Achivement screen:
+
 ![alt tag](http://a4.mzstatic.com/us/r30/Purple69/v4/84/74/29/8474294e-1e08-3a19-75e3-b4cca2a7d874/screen696x696.jpeg)
 
 
 Here is the Shop!
+
 ![alt tag](http://a1.mzstatic.com/us/r30/Purple7/v4/db/74/d6/db74d670-73e3-fa1c-9fa2-350c2a285db4/screen696x696.jpeg)
 
 
