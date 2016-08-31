@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspect</key>
+	<integer>2</integer>
+	<key>backgroundColor</key>
+	<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+	<key>children</key>
+	<array>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.500520, 0.501567}</string>
+					<key>imageFileName</key>
+					<string>menu_background.png</string>
+					<key>name</key>
+					<string>menu_background</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_BACK_USER_INTERFACE_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{640.000000, 960.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>2C2BD5CE-A992-44BA-ABC0-27078E5BA9FF</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>name</key>
+			<string>BACK USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHBackUINode</string>
+			<key>parentUUID</key>
+			<string>852BBF15-9DD1-49C2-9084-3FCCFE131ED1</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>344A8087-6381-41F2-B022-E41591D3E6FE</string>
+			<key>zOrder</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.373843, 0.683217}</string>
+						<key>640x1136</key>
+						<string>{0.370110, 0.664212}</string>
+						<key>640x960</key>
+						<string>{0.370110, 0.664212}</string>
+						<key>750x1334</key>
+						<string>{0.351150, 0.709204}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.370110, 0.664212}</string>
+					<key>imageFileName</key>
+					<string>menu_character.png</string>
+					<key>name</key>
+					<string>menu_character</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{378.000000, 459.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>35772491-9028-47B8-8AF8-AC5DC43889DC</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.724126, 0.624645}</string>
+						<key>640x1136</key>
+						<string>{0.725146, 0.608335}</string>
+						<key>640x960</key>
+						<string>{0.731874, 0.605256}</string>
+						<key>750x1334</key>
+						<string>{0.781744, 0.627841}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.781744, 0.627841}</string>
+					<key>imageFileName</key>
+					<string>menu_button2.png</string>
+					<key>name</key>
+					<string>menu_button2</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{103.000000, 59.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>6F1D5965-A9DF-4A00-9D8D-C2AF6E7693D5</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.596053, 0.703056}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.728362, 0.771110}</string>
+						<key>640x1136</key>
+						<string>{0.730273, 0.780347}</string>
+						<key>640x960</key>
+						<string>{0.741929, 0.773176}</string>
+						<key>750x1334</key>
+						<string>{0.791799, 0.823754}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.791799, 0.823754}</string>
+					<key>imageFileName</key>
+					<string>menu_button4.png</string>
+					<key>name</key>
+					<string>menu_button4</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{89.000000, 52.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>94C1AD75-880E-4403-877C-85777ED358F9</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.821041, 0.699387}</string>
+						<key>640x1136</key>
+						<string>{0.834154, 0.696672}</string>
+						<key>640x960</key>
+						<string>{0.842520, 0.693584}</string>
+						<key>750x1334</key>
+						<string>{0.909718, 0.729045}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.909718, 0.729045}</string>
+					<key>imageFileName</key>
+					<string>menu_button3.png</string>
+					<key>name</key>
+					<string>menu_button3</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{52.000000, 89.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>07113A72-8CCB-4B7D-A69C-A9B6AAE05A54</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.621194, 0.697912}</string>
+						<key>640x1136</key>
+						<string>{0.618535, 0.692048}</string>
+						<key>640x960</key>
+						<string>{0.612278, 0.688781}</string>
+						<key>750x1334</key>
+						<string>{0.649728, 0.722118}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.649728, 0.722118}</string>
+					<key>imageFileName</key>
+					<string>menu_button1.png</string>
+					<key>name</key>
+					<string>menu_button1</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{51.000000, 89.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>2D8A1FFC-B14C-40B0-A9F2-009433D61998</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.546809, 0.696587}</string>
+						<key>640x1136</key>
+						<string>{0.530078, 0.695620}</string>
+						<key>640x960</key>
+						<string>{0.530078, 0.695620}</string>
+						<key>750x1334</key>
+						<string>{0.547856, 0.724284}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.546809, 0.696587}</string>
+					<key>imageFileName</key>
+					<string>menu_quickPlay.png</string>
+					<key>name</key>
+					<string>menu_quickPlay</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{58.000000, 53.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>CA6A5985-0530-4AFC-8994-4EEEE374B9B3</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.894511, 0.699604}</string>
+						<key>640x1136</key>
+						<string>{0.921970, 0.699613}</string>
+						<key>640x960</key>
+						<string>{0.925542, 0.695128}</string>
+						<key>750x1334</key>
+						<string>{1.003047, 0.729870}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.925542, 0.695128}</string>
+					<key>imageFileName</key>
+					<string>menu_storyMode.png</string>
+					<key>name</key>
+					<string>menu_storyMode</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{58.000000, 53.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>1A0514F4-6765-46DB-8734-13F6BFF532C9</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.735248, 0.577805}</string>
+						<key>640x1136</key>
+						<string>{0.732992, 0.566159}</string>
+						<key>640x960</key>
+						<string>{0.732992, 0.566159}</string>
+						<key>750x1334</key>
+						<string>{0.790194, 0.584967}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.790194, 0.584967}</string>
+					<key>imageFileName</key>
+					<string>menu_achievements.png</string>
+					<key>name</key>
+					<string>menu_achievements</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{142.000000, 31.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>31453DAE-2501-4EAE-9944-4C9841A17D90</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.719585, 0.803701}</string>
+						<key>640x1136</key>
+						<string>{0.732471, 0.814894}</string>
+						<key>640x960</key>
+						<string>{0.729933, 0.803248}</string>
+						<key>750x1334</key>
+						<string>{0.785596, 0.856561}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.729933, 0.803248}</string>
+					<key>imageFileName</key>
+					<string>menu_shop.png</string>
+					<key>name</key>
+					<string>menu_shop</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{51.000000, 31.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>7223C1E1-1F5E-419B-AF93-147D12849A78</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>devicePositions</key>
+					<dict>
+						<key>1242x2208</key>
+						<string>{0.554176, 0.118193}</string>
+						<key>640x1136</key>
+						<string>{0.499529, 0.102617}</string>
+						<key>640x960</key>
+						<string>{0.509086, 0.096673}</string>
+						<key>750x1334</key>
+						<string>{0.517455, 0.016778}</string>
+					</dict>
+					<key>generalPosition</key>
+					<string>{0.554176, 0.118193}</string>
+					<key>imageFileName</key>
+					<string>menu_title.png</string>
+					<key>name</key>
+					<string>menu_title</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>perDevicePosition</key>
+					<true/>
+					<key>relativeImagePath</key>
+					<string>imageresource/MenueScreen/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{647.000000, 506.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>E1BDBC6D-E042-4BB7-A829-EFF07EAAB95E</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>name</key>
+			<string>GAME WORLD</string>
+			<key>nodeType</key>
+			<string>LHGameWorldNode</string>
+			<key>parentUUID</key>
+			<string>852BBF15-9DD1-49C2-9084-3FCCFE131ED1</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>C9ACF908-9A68-4FB9-A848-2207D32ED1F9</string>
+			<key>zOrder</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>name</key>
+			<string>FRONT USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHUINode</string>
+			<key>parentUUID</key>
+			<string>852BBF15-9DD1-49C2-9084-3FCCFE131ED1</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>13407C79-FB33-467D-8E7B-177D07511AC0</string>
+			<key>zOrder</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>designResolution</key>
+	<string>{640.000000, 960.000000}</string>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{640.000000, 960.000000}</string>
+			<key>suffix</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{640.000000, 1136.000000}</string>
+			<key>suffix</key>
+			<string>-568</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{750.000000, 1334.000000}</string>
+			<key>suffix</key>
+			<string>-667</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>2</real>
+			<key>size</key>
+			<string>{1242.000000, 2208.000000}</string>
+			<key>suffix</key>
+			<string>-736@2x</string>
+		</dict>
+	</array>
+	<key>globalGravityDirection</key>
+	<string>{0.000000, -1.000000}</string>
+	<key>globalGravityForce</key>
+	<real>8</real>
+	<key>nodeType</key>
+	<string>LHScene</string>
+	<key>sceneFormat</key>
+	<real>1</real>
+	<key>tags</key>
+	<array>
+		<string>DEFAULT</string>
+	</array>
+	<key>useGlobalGravity</key>
+	<true/>
+	<key>uuid</key>
+	<string>852BBF15-9DD1-49C2-9084-3FCCFE131ED1</string>
+</dict>
+</plist>

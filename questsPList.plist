@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QuestsArray</key>
+	<array>
+		<array>
+			<string>Hello Benjamin</string>
+			<string>Collect 100 Catch Coins</string>
+			<integer>1</integer>
+		</array>
+		<array>
+			<string>Ballin’ with Grant</string>
+			<string>Collect 50 Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>1K Team</string>
+			<string>Collect 1000 Bananas/Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Where you at?</string>
+			<string>Collect any falling objects for 3 minutes</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Where’s my twin?</string>
+			<string>Unlock 2 Extra Characters</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Perfectionist</string>
+			<string>Unlock all Achievements</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Living life on the Edge</string>
+			<string>Beat your highest score with one heart to spare</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>They Hate us Cause they Anus</string>
+			<string>High score after collecting two black Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Ahead of the Curve</string>
+			<string>Beat your highest score after playing the game at least 6 times</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Climbing on Up</string>
+			<string>Beat your highest score 2 times consecutively in a row </string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>On Your Way</string>
+			<string>Beat your highest score 3 times consecutively in a row</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Katch Cing</string>
+			<string>Beat your highest score 5 times consecutively in a row</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Need an Upgrade</string>
+			<string>Purchase your first upgrade from the shop</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Maxed Out</string>
+			<string>Unlock all three hearts</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Elite</string>
+			<string>Unlock Monkey Costume</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>One Man Army</string>
+			<string>Purchased everything in the shop at least once</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>When It Counts</string>
+			<string>Collect 100 Coins without missing or getting hit by bad objects</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Brains over Brawn</string>
+			<string>Collect a Lottery Ticket and beat your highest score</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Feelin’ the Vibe</string>
+			<string>Collect a Lottery Ticket</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Swift Victory</string>
+			<string>You played a total of 5 games</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Where It Counts</string>
+			<string>Beat your High Score without missing or getting hit by bad objects</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Back Against the Wall</string>
+			<string>Beat your highest score with one-third heart to spare</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Pockets Full</string>
+			<string>Earn 1,000 Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Fat Purse</string>
+			<string>Earn 5,000 Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Bursting Treasure Chest</string>
+			<string>Earn 10,000 Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Time for a Vault</string>
+			<string>Earn 15,000 Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Copy Cat</string>
+			<string>Get the same high score twice</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>The Real Impersonator</string>
+			<string>Get the same high score twice consecutively</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Use those fingers</string>
+			<string>Swipe over 100 times in game</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Sore Fingers</string>
+			<string>Play 50 Games ; Addict - Play 100 Games</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>So Close!</string>
+			<string>Have 1 Catch Coin less than your highest score</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>1337</string>
+			<string>Collect 1337 Amount of Catch Coins</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>The Joker</string>
+			<string>Perform a Combo by catching 25 Catch Coins consecutively</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>The Juggler</string>
+			<string>Perform a Combo by catching 50 Catch Coins consecutively</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Rookie Streak</string>
+			<string>Perform a Combo by catching 75 Catch Coins consecutively</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Novice Combo</string>
+			<string>Perform a Combo by catching 130 Catch Coins consecutively </string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Cing Kombo</string>
+			<string>Perform THE Combo by catching 200 Coins consecutively</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Shot Down</string>
+			<string>Lost within first 30 seconds of the game</string>
+			<integer>0</integer>
+		</array>
+		<array>
+			<string>Thank You! </string>
+			<string>Paid us $1</string>
+			<integer>0</integer>
+		</array>
+	</array>
+</dict>
+</plist>
