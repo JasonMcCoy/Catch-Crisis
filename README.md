@@ -19,10 +19,14 @@ The player may choose to intentionally not catch the wildcard lottery ticket. If
 ==========================
 
 ==========================
-What's New in Version 1.1.1
+What's New in Version 1.1.1:
+
 • In-App Purchase Bug Fixes
+
 • Performance Improvements
+
 • ReplayKit Integration
+
 ==========================
 
 
